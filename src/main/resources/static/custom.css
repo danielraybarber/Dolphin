@@ -1,0 +1,9 @@
+.myBtn{
+	font-size: 75px;
+	margin-top: 50px;
+
+}
+.myBtnInside{
+	background-color: grey;
+	color: white;
+}
